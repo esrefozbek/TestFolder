@@ -1,0 +1,1 @@
+print ("Merhaba Dünya","Selamlar","Nasılsın","Ben iyiyim",sep="-----",end=" <alt satıra geç>\n")
